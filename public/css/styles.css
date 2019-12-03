@@ -2,7 +2,7 @@ html {
   background-color: #E4E9FD;
   background-image: -webkit-linear-gradient(65deg, #A683E3 50%, #E4E9FD 50%);
   min-height: 1000px;
-  font-family: 'helvetica neue';
+  font-family: 'Sulphur Point', sans-serif;
 }
 
 h1 {
@@ -28,6 +28,7 @@ h1 {
   display: flex;
   align-items: center;
   border-bottom: 1px solid #F1F1F1;
+  font-weight: 300;
 }
 
 .item:last-child {
@@ -47,8 +48,8 @@ p {
   margin: 0;
   padding: 20px;
   font-size: 20px;
-  font-weight: 200;
   color: #00204a;
+  font-weight: 300;
 }
 
 form {
@@ -75,7 +76,7 @@ input[type="text"] {
   border: none;
   background: transparent;
   font-size: 20px;
-  font-weight: 200;
+  font-weight: 300;
   width: 313px;
 }
 
